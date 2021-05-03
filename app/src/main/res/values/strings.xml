@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GisaApp</string>
+    <string name="title1">학습</string>
+    <string name="title2">오답노트</string>
+    <string name="title3">시험일정</string>
+    <string name="title4">설정</string>
+</resources>

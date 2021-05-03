@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav1"
+        android:enabled="true"
+        android:icon="@null"
+        android:title="@string/title1"/>
+    <item
+        android:id="@+id/nav2"
+        android:enabled="true"
+        android:icon="@null"
+        android:title="@string/title2"/>
+    <item
+        android:id="@+id/nav3"
+        android:enabled="true"
+        android:icon="@null"
+        android:title="@string/title3"/>
+    <item
+        android:id="@+id/nav4"
+        android:enabled="true"
+        android:icon="@null"
+        android:title="@string/title4"/>
+</menu>
